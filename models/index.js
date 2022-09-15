@@ -44,10 +44,3 @@ db.sequelize = sequelize;
 db.Sequelize = Sequelize;
 
 module.exports = db;
-
-// const {Sequelize} = require("sequelize");
-// const sequelize = new Sequelize( "associations", "root","pps993icp956",{
-//     host:"127.0.0.1",
-//     dialect:'mysql',
-// })
-// module.exports = sequelize;
